@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="title">MyFirstApp</string>
+    <string name="artist">Andrew Oconnor artist</string>
+    <string name="source">MyFirstApp source string ENGLISH</string>
+    <string name="imageHeadshotDescription">Head shot of Andrew OConnor</string>
 </resources>
